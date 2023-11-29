@@ -1,5 +1,5 @@
 # T20-Cricket-Data-Analysis
-Certainly! A T20 cricket data analysis project using Python and Power BI involves utilizing Python for data processing, analysis, and initial visualization, and then integrating the results into Power BI for creating interactive dashboards and reports. Below is a detailed breakdown of the project:
+A T20 cricket data analysis project using Python and Power BI involves utilizing Python for data processing, analysis, and initial visualization and then integrating the results into Power BI for creating interactive dashboards and reports. Below is a detailed breakdown of the project:
 
 ### 1. Data Collection:
 
